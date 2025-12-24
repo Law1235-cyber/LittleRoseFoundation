@@ -1,0 +1,53 @@
+[
+  
+  {
+    "id": 1,
+    "title": "Nhà Yêu Thương",
+    "description": "Bé T sinh năm 2022, lớn lên trong một gia đình thuộc diện hộ nghèo ở xã Chư Sê, tỉnh Gia Lai. Nhà không có ruộng đất, cha mẹ đi làm thuê theo ngày. Mẹ bé bị bệnh tim và dạ dày, bác sĩ khuyên phải phẫu thuật nhưng chị xin về vì không có tiền chữa trị. Hiện tại, chị còn đang mang thai bé thứ hai.",
+    "raised": 350000000,
+    "goal": 1100000000,
+    "donors": 789,
+    "likes": 150,
+    "imageSrc": "/images/project1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bàn tay nhân ái",
+    "description": "Bé T.H.P, 17 tháng tuổi, mắc bệnh tim bẩm sinh ngay từ khi chào đời, thường xuyên đau ốm, phải nhập viện liên tục. Khi bé được 6 tháng tuổi, bác sĩ chỉ định cần phẫu thuật tim càng sớm càng tốt để tránh ảnh hưởng đến sức khỏe về sau. Tuy nhiên, hoàn cảnh gia đình khó khăn khiến chi phí phẫu thuật trở thành gánh nặng vượt ngoài khả năng.",
+    "raised": 350000000,
+    "goal": 500000000,
+    "donors": 789,
+    "likes": 200,
+    "imageSrc": "/images/project2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Góp heo vàng",
+    "description": "Giữ ước mơ đến trường cho học sinh vượt khó ở An Giang & Gia Lai. Nhiều em nhỏ phải bỏ học giữa chừng vì hoàn cảnh gia đình khó khăn, thiếu thốn. Chương trình \"Góp heo vàng\" nhằm hỗ trợ các em có điều kiện học tập tốt hơn.",
+    "raised": 350000000,
+    "goal": 440000000,
+    "donors": 789,
+    "likes": 180,
+    "imageSrc": "/images/project3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Ánh sáng vùng cao",
+    "description": "Mang điện năng lượng mặt trời đến với các bản làng xa xôi chưa có lưới điện quốc gia. Giúp các em nhỏ có ánh sáng để học tập vào buổi tối và cải thiện sinh hoạt cho người dân.",
+    "raised": 120000000,
+    "goal": 300000000,
+    "donors": 450,
+    "likes": 70,
+    "imageSrc": "/images/project1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Nước sạch cho em",
+    "description": "Xây dựng hệ thống lọc nước sạch cho các điểm trường vùng sâu vùng xa, đảm bảo sức khỏe cho học sinh và giáo viên, phòng tránh các bệnh lây qua đường nước.",
+    "raised": 80000000,
+    "goal": 150000000,
+    "donors": 200,
+    "likes": 50,
+    "imageSrc": "/images/project2.jpg"
+  }
+]
