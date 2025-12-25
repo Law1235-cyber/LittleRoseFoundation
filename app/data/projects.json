@@ -1,5 +1,4 @@
 [
-  
   {
     "id": 1,
     "title": "Nhà Yêu Thương",
@@ -8,7 +7,11 @@
     "goal": 1100000000,
     "donors": 789,
     "likes": 150,
-    "imageSrc": "/images/project1.jpg"
+    "imageSrc": "/images/project1.jpg",
+    "category": "Xây nhà tình thương",
+    "province": "Gia Lai",
+    "status": "Đang gây quỹ",
+    "keywords": "nhà tình thương, hộ nghèo, gia lai, trẻ em, xây nhà"
   },
   {
     "id": 2,
@@ -18,7 +21,11 @@
     "goal": 500000000,
     "donors": 789,
     "likes": 200,
-    "imageSrc": "/images/project2.jpg"
+    "imageSrc": "/images/project2.jpg",
+    "category": "Phẫu thuật tim",
+    "province": "TP. Hồ Chí Minh",
+    "status": "Đang gây quỹ",
+    "keywords": "tim bẩm sinh, phẫu thuật tim, trẻ em, bệnh hiểm nghèo"
   },
   {
     "id": 3,
@@ -28,7 +35,11 @@
     "goal": 440000000,
     "donors": 789,
     "likes": 180,
-    "imageSrc": "/images/project3.jpg"
+    "imageSrc": "/images/project3.jpg",
+    "category": "Học bổng",
+    "province": "An Giang, Gia Lai",
+    "status": "Đang gây quỹ",
+    "keywords": "học bổng, học sinh nghèo, đến trường, an giang, gia lai"
   },
   {
     "id": 4,
@@ -38,7 +49,11 @@
     "goal": 300000000,
     "donors": 450,
     "likes": 70,
-    "imageSrc": "/images/project1.jpg"
+    "imageSrc": "/images/project4.jpg",
+    "category": "Năng lượng sạch",
+    "province": "Lào Cai",
+    "status": "Đang gây quỹ",
+    "keywords": "điện mặt trời, vùng cao, năng lượng sạch, học tập, lào cai"
   },
   {
     "id": 5,
@@ -48,6 +63,108 @@
     "goal": 150000000,
     "donors": 200,
     "likes": 50,
-    "imageSrc": "/images/project2.jpg"
+    "imageSrc": "/images/project5.jpg",
+    "category": "Nước sạch",
+    "province": "Đắk Nông",
+    "status": "Đang gây quỹ",
+    "keywords": "nước sạch, lọc nước, trường học, vùng sâu vùng xa, đắk nông"
+  },
+  {
+    "id": 6,
+    "title": "Mái ấm cho trẻ mồ côi",
+    "description": "Xây dựng trung tâm nuôi dưỡng trẻ mồ côi và trẻ em bị bỏ rơi tại Quảng Nam. Cung cấp nơi ăn chốn ở, giáo dục và chăm sóc y tế cho các em.",
+    "raised": 500000000,
+    "goal": 1200000000,
+    "donors": 1200,
+    "likes": 320,
+    "imageSrc": "/images/project6.jpg",
+    "category": "Trẻ mồ côi",
+    "province": "Quảng Nam",
+    "status": "Đang gây quỹ",
+    "keywords": "trẻ mồ côi, mái ấm, trung tâm nuôi dưỡng, quảng nam"
+  },
+  {
+    "id": 7,
+    "title": "Cứu trợ lũ lụt miền Trung",
+    "description": "Hỗ trợ khẩn cấp người dân bị ảnh hưởng bởi lũ lụt tại Thừa Thiên Huế: lương thực, nước uống, quần áo và nhu yếu phẩm thiết yếu.",
+    "raised": 280000000,
+    "goal": 400000000,
+    "donors": 950,
+    "likes": 210,
+    "imageSrc": "/images/project7.jpg",
+    "category": "Cứu trợ thiên tai",
+    "province": "Thừa Thiên Huế",
+    "status": "Đang gây quỹ",
+    "keywords": "lũ lụt, cứu trợ, miền trung, thừa thiên huế, thiên tai"
+  },
+  {
+    "id": 8,
+    "title": "Xây cầu dân sinh",
+    "description": "Xây dựng cây cầu bê tông kiên cố nối hai bản làng tại Hà Giang, giúp người dân và học sinh đi lại an toàn, đặc biệt vào mùa mưa lũ.",
+    "raised": 180000000,
+    "goal": 350000000,
+    "donors": 380,
+    "likes": 95,
+    "imageSrc": "/images/project8.jpg",
+    "category": "Cầu đường",
+    "province": "Hà Giang",
+    "status": "Đang gây quỹ",
+    "keywords": "xây cầu, cầu dân sinh, vùng cao, hà giang, giao thông"
+  },
+  {
+    "id": 9,
+    "title": "Hỗ trợ bệnh nhi ung thư",
+    "description": "Chi trả chi phí điều trị cho các bé mắc bệnh ung thư máu tại Bệnh viện Nhi Đồng 2. Mỗi ca điều trị cần hàng trăm triệu đồng.",
+    "raised": 420000000,
+    "goal": 800000000,
+    "donors": 1100,
+    "likes": 400,
+    "imageSrc": "/images/project9.jpg",
+    "category": "Bệnh hiểm nghèo",
+    "province": "TP. Hồ Chí Minh",
+    "status": "Đang gây quỹ",
+    "keywords": "ung thư, ung thư máu, bệnh nhi, điều trị ung thư"
+  },
+  {
+    "id": 10,
+    "title": "Học bổng cho em",
+    "description": "Trao học bổng và xe đạp cho học sinh nghèo hiếu học tại các tỉnh miền Tây Nam Bộ.",
+    "raised": 150000000,
+    "goal": 250000000,
+    "donors": 520,
+    "likes": 120,
+    "imageSrc": "/images/project10.jpg",
+    "category": "Học bổng",
+    "province": "Cần Thơ, Đồng Tháp",
+    "status": "Đang gây quỹ",
+    "keywords": "học bổng, xe đạp, miền tây, học sinh nghèo"
+  },
+  {
+    "id": 11,
+    "title": "Chữa lành đôi mắt",
+    "description": "Phẫu thuật mắt miễn phí cho người cao tuổi nghèo bị đục thủy tinh thể tại Bình Định.",
+    "raised": 90000000,
+    "goal": 200000000,
+    "donors": 310,
+    "likes": 85,
+    "imageSrc": "/images/project11.jpg",
+    "category": "Phẫu thuật mắt",
+    "province": "Bình Định",
+    "status": "Đang gây quỹ",
+    "keywords": "đục thủy tinh thể, phẫu thuật mắt, người cao tuổi, bình định"
+  },
+  {
+    "id": 12,
+    "title": "Xây thư viện vùng cao",
+    "description": "Xây dựng thư viện và cung cấp sách vở cho trường tiểu học tại Sơn La, khơi dậy niềm đam mê đọc sách cho các em.",
+    "raised": 220000000,
+    "goal": 400000000,
+    "donors": 680,
+    "likes": 160,
+    "imageSrc": "/images/project12.jpg",
+    "category": "Giáo dục",
+    "province": "Sơn La",
+    "status": "Đang gây quỹ",
+    "keywords": "thư viện, sách vở, vùng cao, giáo dục, sơn la"
   }
 ]
